@@ -14,8 +14,6 @@
 > **🌐 Nginx Proxy Manager:** It is a simple yet powerful web-based tool for managing Nginx proxy servers, enabling easy configuration and management of reverse proxies and SSL/TLS termination.
 
 ---
-## 🤔 Want to know how it looks like. Here is the Demo Video
-[![DEMO VIDEO](https://www.linkedin.com/posts/jhonbaironflorez_pacs-dicom-ohif-activity-7429355348148400128-jGVR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyUxjABC49qKadfUN-aUndvSXoRpiR0vrs)
 
 ### Create new docker network `proxy`
 
