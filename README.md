@@ -15,7 +15,7 @@
 
 ---
 ## 🤔 Want to know how it looks like. Here is the Demo Video
-[![DEMO VIDEO](https://img.youtube.com/vi/2Sde7z1E_y8/0.jpg)](https://www.youtube.com/watch?v=2Sde7z1E_y8)
+[![DEMO VIDEO](https://www.linkedin.com/posts/jhonbaironflorez_pacs-dicom-ohif-activity-7429355348148400128-jGVR?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyUxjABC49qKadfUN-aUndvSXoRpiR0vrs)
 
 ### Create new docker network `proxy`
 
