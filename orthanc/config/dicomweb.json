@@ -1,0 +1,12 @@
+{
+  "DicomWeb" : {
+    "Enable" : true,
+    "Root" : "/dicom-web/",
+    "EnableWado" : true,
+    "WadoRoot" : "/wado",
+    "Ssl" : false,
+    "QidoMaxInstances" : 100,
+    "StowMaxInstances" : 10,
+    "StowMaxSize" : 100
+  }
+}

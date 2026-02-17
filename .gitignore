@@ -1,0 +1,6 @@
+# Ignorar datos sensibles y pesados
+.env
+orthanc-storage/
+pacs-db-data/
+*.log
+.DS_Store
