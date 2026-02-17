@@ -4,3 +4,4 @@ orthanc-storage/
 pacs-db-data/
 *.log
 .DS_Store
+.env
