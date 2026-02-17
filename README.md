@@ -1,6 +1,4 @@
-# M A P D R (Hyper4Saken) 🤘
-
-![MAPDR](https://github.com/hyper4saken/ohif-orthanc-pacs/blob/main/ohif/config/logo.png)
+# J H O N F I S I K O  
 
 # OHIF v3 with Orthanc(PostgresDB) with Authentik for Auth and Nginx Proxy Manager for Proxy
 
